@@ -113,3 +113,7 @@ PHP  8.1.27
 IIS 10.0.22621.2428
 
 
+
+Codeigniter forum thread:
+https://forum.codeigniter.com/showthread.php?tid=89074
+
